@@ -7,11 +7,11 @@
   
 ## Objectif 
   
-  L'objectif était de reproduire un challenge que nous avions eu un début de formation avec les compétences apprises. 
+  -L'objectif était de reproduire un challenge que nous avions eu un début de formation avec les compétences apprises. 
 
-  Il fallait réaliser cette intégration en utilisant flexbox, des balises sémantiques et des class CSS.
+  -Il fallait réaliser cette intégration en utilisant flexbox, des balises sémantiques et des class CSS.
 
-  Le lien du projet d'origine : https://o-clock-pavlova.github.io/S01-ofig-home-JulienPAU/
+  -Le lien du projet d'origine : https://o-clock-pavlova.github.io/S01-ofig-home-JulienPAU/
 
 
 
@@ -37,11 +37,11 @@ Couleurs :
 
 #Objective
 
-  The objective was to reproduce a challenge that we had at the beginning of our training using the skills we learned.
+  -The objective was to reproduce a challenge that we had at the beginning of our training using the skills we learned.
 
-  We had to complete this integration using flexbox, semantic tags, and CSS classes.
+  -We had to complete this integration using flexbox, semantic tags, and CSS classes.
 
-  The link to the original project: https://o-clock-pavlova.github.io/S01-ofig-home-JulienPAU/
+  -The link to the original project: https://o-clock-pavlova.github.io/S01-ofig-home-JulienPAU/
 
   
 ##The information we had available from the original challenge that I then adapted.
