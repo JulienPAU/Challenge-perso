@@ -30,7 +30,6 @@ Couleurs :
 - Gris clair (bordures et catégorie): `#ccc`
 - du noir pour les textes et fond blanc
 
---------------------------------------------------------------------------------------------------
 
 # oMontres
 
