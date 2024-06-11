@@ -1,7 +1,5 @@
 #Challenge perso
 
-https://github.com/JulienPAU/Challenge-perso/blob/master/docs/images/omontres.png
-
 # oFig
 
 Boutique de figurines
@@ -10,7 +8,7 @@ Boutique de figurines
 
 Votre objectif est de réaliser cette intégration en utilisant flexbox, des balises sémantiques et des class CSS 
 
-![resultat](ressources/resultat.png)
+![O'Montres](/docs/images/omontres.png)
 
 Les images se trouvent dans le dossier `images/` du projet
 
