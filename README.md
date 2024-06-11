@@ -16,7 +16,7 @@
 
 
 
-##Les informations que nous avions à dispositions du challenge d'origine que j'ai ensuite adapté 
+## Les informations que nous avions à dispositions du challenge d'origine que j'ai ensuite adapté 
 
 Les images se trouvent dans le dossier `images/` du projet
 
@@ -35,7 +35,7 @@ Couleurs :
 
   Watch shop
 
-#Objective
+# Objective
 
   -The objective was to reproduce a challenge that we had at the beginning of our training using the skills we learned.
 
@@ -44,11 +44,11 @@ Couleurs :
   -The link to the original project: https://o-clock-pavlova.github.io/S01-ofig-home-JulienPAU/
 
   
-##The information we had available from the original challenge that I then adapted.
+## The information we had available from the original challenge that I then adapted.
 
 The images are in the images/ folder of the project.
 
-Charter
+## Charter
 Font: Raleway (available on Google Fonts)
 
 Colors:
