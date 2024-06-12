@@ -9,11 +9,11 @@
   
 ## Objectif 
   
-  -L'objectif était de reproduire un challenge que nous avions eu un début de formation avec les compétences apprises. 
+  - L'objectif était de reproduire un challenge que nous avions eu un début de formation avec les compétences apprises. 
 
-  -Il fallait réaliser cette intégration en utilisant flexbox, des balises sémantiques et des class CSS.
+  - Il fallait réaliser cette intégration en utilisant flexbox, des balises sémantiques et des class CSS.
 
-  -Le lien du projet d'origine : https://o-clock-pavlova.github.io/S01-ofig-home-JulienPAU/
+  - Le lien du projet d'origine : https://o-clock-pavlova.github.io/S01-ofig-home-JulienPAU/
 
 
 
